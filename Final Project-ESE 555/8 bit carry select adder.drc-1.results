@@ -1,0 +1,1078 @@
+finalfinal 2000
+Well.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Nwell and Pwell must not overlap
+Well.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Min spacing of pwell to nwell = 0.225
+Well.4
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Min width of well = 0.2
+Poly.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Min width of poly = 0.05
+Poly.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Min spacing of gate poly = 0.14
+Poly.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Min extension of poly past active = 0.05
+Poly.4
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum active enclosure of gate = 0.07
+Poly.5
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of poly to active = 0.05
+Poly.6
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of field poly = 0.075
+Active.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum width of active = 0.09
+Active.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of active areas =  0.08
+Active.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum well enclosure of active = 0.055
+Active.4
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Active must be inside well
+Implant.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of implant to gate = 0.07
+Implant.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of implant to contact = 0.025
+Implant.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of implant = 0.045
+Implant.4
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum width of implant = 0.045
+Implant.6
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Nimplant and pimplant must not overlap
+Contact.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum width of contact = 0.065
+Contact.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of contact = 0.075
+Contact.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Contact must be inside metal1 and active or poly
+Contact.4
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum active enclosure of contact = 0.005
+Contact.5
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum poly enclosure of contact = 0.005
+Contact.6
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of contact to poly = 0.035
+Metal1.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum width of metal1 = 0.065
+Metal1.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal1 = 0.065
+Metal1.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Metal1 must extend past contact by 0.035 on two opposite sides
+Metal1.4
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Metal1 must extend past via1 by 0.035 on two opposite sides
+Via1.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum width of via1 = 0.065
+Via1.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of via1 = 0.075
+Via1.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Via1 must be inside metal1
+Via1.4
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Via1 must be inside metal2
+Metal2.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum width of metal2 = 0.07
+Metal2.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal2 = 0.07
+Metal2.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Metal2 must extend past via1 by 0.035 on two opposite sides
+Metal2.4
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Metal2 must extend past via2 by 0.035 on two opposite sides
+Via2.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum width of via2 = 0.07
+Via2.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of via2 = 0.085
+Via2.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Via2 must be inside metal2
+Via2.4
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Via2 must be inside metal3
+Metal3.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum width of metal3 = 0.07
+Metal3.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal3 = 0.07
+Metal3.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Metal3 must extend past via2 by 0.035 on two opposite sides
+Metal3.4
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Metal3 must extend past via3 by 0.035 on two opposite sides
+Via3.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum width of via3 = 0.07
+Via3.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of via3 = 0.085
+Via3.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Via3 must be inside metal3
+Via3.4
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Via3 must be inside metal4
+Metal4.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum width of metal4 = 0.14
+Metal4.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal4 = 0.14
+Metal4.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum enclosure of metal4 around via3
+Via4.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum width of via4 = 0.14
+Via4.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of via4 = 0.16
+Via4.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Via4 must be inside metal4
+Via4.4
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Via4 must be inside metal5
+Metal5.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum width of metal5 = 0.14
+Metal5.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal5 = 0.14
+Metal5.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum enclosure of metal5 around via4
+Via5.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum width of via5 = 0.14
+Via5.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of via5 = 0.16
+Via5.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Via5 must be inside metal5
+Via5.4
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Via5 must be inside metal6
+Metal6.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum width of metal6 = 0.14
+Metal6.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal6 = 0.14
+Metal6.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum enclosure of metal6 around via5
+Via6.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum width of via6 = 0.14
+Via6.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of via6 = 0.16
+Via6.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Via6 must be inside metal6
+Via6.4
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Via6 must be inside metal7
+Metal7.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum width of metal7 = 0.4
+Metal7.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal7 = 0.4
+Metal7.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum enclosure of metal7 around via6
+Via7.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum width of via7 = 0.4
+Via7.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of via7 = 0.44
+Via7.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Via7 must be inside metal7
+Via7.4
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Via7 must be inside metal8
+Metal8.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum width of metal8 = 0.4
+Metal8.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal8 = 0.4
+Metal8.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum enclosure of metal8 around via7
+Via8.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum width of via8 = 0.4
+Via8.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of via8 = 0.44
+Via8.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Via8 must be inside metal8
+Via8.4
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Via8 must be inside metal9
+Metal9.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum width of metal9 = 0.8
+Metal9.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal9 = 0.8
+Metal9.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum enclosure of metal9 around via8
+Via9.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum width of via9 = 0.8
+Via9.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of via9 = 0.88
+Via9.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Via9 must be inside metal9
+Via9.4
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Via9 must be inside metal10
+Metal10.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum width of metal10 = 0.8
+Metal10.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal10 = 0.8
+Metal10.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum enclosure of metal10 around via9
+Metal1.5
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal1 wider than 0.09 & longer than 0.3 = 0.09
+Metal1.6
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal1 wider than 0.27 & longer than 0.9 = 0.27
+Metal1.7
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal1 wider than 0.5 & longer than 1.8 = 0.5
+Metal1.8
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal1 wider than 0.9 & longer than 2.7 = 0.9
+Metal1.9
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal1 wider than 1.5 & longer than 4.0 = 1.5
+Metal2.5
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal2 wider than 0.09 & longer than 0.3 = 0.09
+Metal2.6
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal2 wider than 0.27 & longer than 0.9 = 0.27
+Metal2.7
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal2 wider than 0.5 & longer than 1.8 = 0.5
+Metal2.8
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal2 wider than 0.9 & longer than 2.7 = 0.9
+Metal2.9
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal2 wider than 1.5 & longer than 4.0 = 1.5
+Metal3.5
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal3 wider than 0.09 & longer than 0.3 = 0.09
+Metal3.6
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal3 wider than 0.27 & longer than 0.9 = 0.27
+Metal3.7
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal3 wider than 0.5 & longer than 1.8 = 0.5
+Metal3.8
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal3 wider than 0.9 & longer than 2.7 = 0.9
+Metal3.9
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal3 wider than 1.5 & longer than 4.0 = 1.5
+Metal4.5
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal4 wider than 0.27 & longer than 0.9 = 0.27
+Metal4.6
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal4 wider than 0.5 & longer than 1.8 = 0.5
+Metal4.7
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal4 wider than 0.9 & longer than 2.7 = 0.9
+Metal4.8
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal4 wider than 1.5 & longer than 4.0 = 1.5
+Metal5.5
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal5 wider than 0.27 & longer than 0.9 = 0.27
+Metal5.6
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal5 wider than 0.5 & longer than 1.8 = 0.5
+Metal5.7
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal5 wider than 0.9 & longer than 2.7 = 0.9
+Metal5.8
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal5 wider than 1.5 & longer than 4.0 = 1.5
+Metal6.5
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal6 wider than 0.27 & longer than 0.9 = 0.27
+Metal6.6
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal6 wider than 0.5 & longer than 1.8 = 0.5
+Metal6.7
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal6 wider than 0.9 & longer than 2.7 = 0.9
+Metal6.8
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal6 wider than 1.5 & longer than 4.0 = 1.5
+Metal7.5
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal7 wider than 0.5 & longer than 1.8 = 0.5
+Metal7.6
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal7 wider than 0.9 & longer than 2.7 = 0.9
+Metal7.7
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal7 wider than 1.5 & longer than 4.0 = 1.5
+Metal8.5
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal8 wider than 0.5 & longer than 1.8 = 0.5
+Metal8.6
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal8 wider than 0.9 & longer than 2.7 = 0.9
+Metal8.7
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal8 wider than 1.5 & longer than 4.0 = 1.5
+Metal9.5
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal9 wider than 0.9 & longer than 2.7 = 0.9
+Metal9.6
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal9 wider than 1.5 & longer than 4.0 = 1.5
+Metal10.5
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal10 wider than 0.9 & longer than 2.7 = 0.9
+Metal10.6
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Minimum spacing of metal10 wider than 1.5 & longer than 4.0 = 1.5
+Grid.1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.4
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.5
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.6
+135 135 2 Dec  8 12:15:28 2017                 
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+e 1 2
+CN DFF c 1 0 0 1 19100 76820 36
+-3339 270 -3340 270
+-3339 270 -3339 570
+e 2 2
+-3339 570 -3339 270
+-3339 570 -3340 570
+e 3 2
+-3339 1645 -3340 1645
+-3339 1645 -3339 1869
+e 4 2
+-3339 1869 -3339 1645
+-3339 1869 -3340 1869
+e 5 2
+-3340 1869 -3339 1869
+-3340 1869 -3340 2205
+e 6 2
+-2389 295 -2390 295
+-2389 295 -2389 595
+e 7 2
+-2389 595 -2389 295
+-2389 595 -2390 595
+e 8 2
+-2389 1670 -2390 1670
+-2389 1670 -2389 1894
+e 9 2
+-2389 1894 -2389 1670
+-2389 1894 -2390 1894
+e 10 2
+-2390 1894 -2389 1894
+-2390 1894 -2390 2230
+e 11 2
+-1269 350 -1270 350
+-1269 350 -1269 650
+e 12 2
+-1269 650 -1269 350
+-1269 650 -1270 650
+e 13 2
+-1269 1725 -1270 1725
+-1269 1725 -1269 1949
+e 14 2
+-1269 1949 -1269 1725
+-1269 1949 -1270 1949
+e 15 2
+-1270 1949 -1269 1949
+-1270 1949 -1270 2285
+e 16 2
+1041 250 1040 250
+1041 250 1041 550
+e 17 2
+1041 550 1041 250
+1041 550 1040 550
+e 18 2
+1041 1625 1040 1625
+1041 1625 1041 1849
+e 19 2
+1041 1849 1041 1625
+1041 1849 1040 1849
+e 20 2
+1040 1849 1041 1849
+1040 1849 1040 2185
+e 21 2
+7921 165 7920 165
+7921 165 7921 465
+e 22 2
+7921 465 7921 165
+7921 465 7920 465
+e 23 2
+7921 1540 7920 1540
+7921 1540 7921 1764
+e 24 2
+7921 1764 7921 1540
+7921 1764 7920 1764
+e 25 2
+7920 1764 7921 1764
+7920 1764 7920 2100
+e 26 2
+11321 180 11320 180
+11321 180 11321 480
+e 27 2
+11321 480 11321 180
+11321 480 11320 480
+e 28 2
+11321 1555 11320 1555
+11321 1555 11321 1779
+e 29 2
+11321 1779 11321 1555
+11321 1779 11320 1779
+e 30 2
+11320 1779 11321 1779
+11320 1779 11320 2500
+e 31 2
+CN flipflopfourbitadder c 1 0 0 1 8545 48040 3
+20826 29240 20830 29240
+20826 29240 20826 29415
+e 32 2
+20826 29415 20826 29240
+20826 29415 20825 29415
+e 33 2
+20826 30490 20825 30490
+20826 30490 20826 30714
+e 34 2
+20826 30714 20826 30490
+20826 30714 20825 30714
+e 35 2
+20825 30714 20826 30714
+20825 30714 20825 31050
+e 36 2
+21126 18350 21125 18350
+21126 18350 21126 18650
+e 37 2
+21126 18650 21126 18350
+21126 18650 21125 18650
+e 38 2
+21126 19725 21125 19725
+21126 19725 21126 19949
+e 39 2
+21126 19949 21126 19725
+21126 19949 21125 19949
+e 40 2
+21125 19949 21126 19949
+21125 19949 21125 20285
+e 41 2
+45026 18260 45035 18260
+45026 18260 45026 18560
+e 42 2
+45026 18560 45026 18260
+45026 18560 45025 18560
+e 43 2
+45026 19635 45025 19635
+45026 19635 45026 19859
+e 44 2
+45026 19859 45026 19635
+45026 19859 45025 19859
+e 45 2
+45025 19859 45026 19859
+45025 19859 45025 20195
+e 46 2
+45276 29270 45275 29270
+45276 29270 45276 29570
+e 47 2
+45276 29570 45276 29270
+45276 29570 45275 29570
+e 48 2
+45276 30645 45275 30645
+45276 30645 45276 30869
+e 49 2
+45276 30869 45276 30645
+45276 30869 45275 30869
+e 50 2
+45275 30869 45276 30869
+45275 30869 45275 31205
+e 51 2
+69501 29255 69500 29255
+69501 29255 69501 29555
+e 52 2
+69501 29555 69501 29255
+69501 29555 69500 29555
+e 53 2
+69501 30630 69500 30630
+69501 30630 69501 30854
+e 54 2
+69501 30854 69501 30630
+69501 30854 69500 30854
+e 55 2
+69500 30854 69501 30854
+69500 30854 69500 31190
+e 56 2
+69551 18340 69550 18340
+69551 18340 69551 18640
+e 57 2
+69551 18640 69551 18340
+69551 18640 69550 18640
+e 58 2
+69551 19715 69550 19715
+69551 19715 69551 19939
+e 59 2
+69551 19939 69551 19715
+69551 19939 69550 19939
+e 60 2
+69550 19939 69551 19939
+69550 19939 69550 20275
+e 61 2
+90826 29270 90825 29270
+90826 29270 90826 29570
+e 62 2
+90826 29570 90826 29270
+90826 29570 90825 29570
+e 63 2
+90826 30645 90825 30645
+90826 30645 90826 30869
+e 64 2
+90826 30869 90826 30645
+90826 30869 90825 30869
+e 65 2
+90825 30869 90826 30869
+90825 30869 90825 31205
+e 66 2
+91101 18355 91100 18355
+91101 18355 91101 18655
+e 67 2
+91101 18655 91101 18355
+91101 18655 91100 18655
+e 68 2
+91101 19730 91100 19730
+91101 19730 91101 19954
+e 69 2
+91101 19954 91101 19730
+91101 19954 91100 19954
+e 70 2
+91100 19954 91101 19954
+91100 19954 91100 20290
+e 71 2
+CN mux c 1 0 0 1 81040 21010 5
+946 555 945 555
+946 555 946 855
+e 72 2
+946 855 946 555
+946 855 945 855
+e 73 2
+946 1930 945 1930
+946 1930 946 2154
+e 74 2
+946 2154 946 1930
+946 2154 945 2154
+e 75 2
+945 2154 946 2154
+945 2154 945 2490
+e 76 2
+CN finalfinal c 1 0 0 1 0 0 0
+97841 94165 97840 94165
+97841 94165 97841 94465
+e 77 2
+97841 94465 97841 94165
+97841 94465 97840 94465
+e 78 2
+97841 95540 97840 95540
+97841 95540 97841 95764
+e 79 2
+97841 95764 97841 95540
+97841 95764 97840 95764
+e 80 2
+97840 95764 97841 95764
+97840 95764 97840 96100
+e 81 2
+109861 10635 109860 10635
+109861 10635 109861 10935
+e 82 2
+109861 10935 109861 10635
+109861 10935 109860 10935
+e 83 2
+109861 12010 109860 12010
+109861 12010 109861 12234
+e 84 2
+109861 12234 109861 12010
+109861 12234 109860 12234
+e 85 2
+109860 12234 109861 12234
+109860 12234 109860 12570
+e 86 2
+135686 10615 135685 10615
+135686 10615 135686 10915
+e 87 2
+135686 10915 135686 10615
+135686 10915 135685 10915
+e 88 2
+135686 11990 135685 11990
+135686 11990 135686 12214
+e 89 2
+135686 12214 135686 11990
+135686 12214 135685 12214
+e 90 2
+135685 12214 135686 12214
+135685 12214 135685 12550
+e 91 2
+162591 10615 162590 10615
+162591 10615 162591 10915
+e 92 2
+162591 10915 162591 10615
+162591 10915 162590 10915
+e 93 2
+162591 11990 162590 11990
+162591 11990 162591 12214
+e 94 2
+162591 12214 162591 11990
+162591 12214 162590 12214
+e 95 2
+162590 12214 162591 12214
+162590 12214 162590 12550
+e 96 2
+186801 10615 186800 10615
+186801 10615 186801 10915
+e 97 2
+186801 10915 186801 10615
+186801 10915 186800 10915
+e 98 2
+186801 11990 186800 11990
+186801 11990 186801 12214
+e 99 2
+186801 12214 186801 11990
+186801 12214 186800 12214
+e 100 2
+186800 12214 186801 12214
+186800 12214 186800 12550
+e 101 2
+211011 10610 211010 10610
+211011 10610 211011 10910
+e 102 2
+211011 10910 211011 10610
+211011 10910 211010 10910
+e 103 2
+211011 11985 211010 11985
+211011 11985 211011 12209
+e 104 2
+211011 12209 211011 11985
+211011 12209 211010 12209
+e 105 2
+211010 12209 211011 12209
+211010 12209 211010 12545
+e 106 2
+223366 93415 223365 93415
+223366 93415 223366 93715
+e 107 2
+223366 93715 223366 93415
+223366 93715 223365 93715
+e 108 2
+223366 94790 223365 94790
+223366 94790 223366 95014
+e 109 2
+223366 95014 223366 94790
+223366 95014 223365 95014
+e 110 2
+223365 95014 223366 95014
+223365 95014 223365 95350
+e 111 2
+281126 34795 281125 34795
+281126 34795 281126 35095
+e 112 2
+281126 35095 281126 34795
+281126 35095 281125 35095
+e 113 2
+281126 36170 281125 36170
+281126 36170 281126 36394
+e 114 2
+281126 36394 281126 36170
+281126 36394 281125 36394
+e 115 2
+281125 36394 281126 36394
+281125 36394 281125 36730
+e 116 2
+306951 34775 306950 34775
+306951 34775 306951 35075
+e 117 2
+306951 35075 306951 34775
+306951 35075 306950 35075
+e 118 2
+306951 36150 306950 36150
+306951 36150 306951 36374
+e 119 2
+306951 36374 306951 36150
+306951 36374 306950 36374
+e 120 2
+306950 36374 306951 36374
+306950 36374 306950 36710
+e 121 2
+333856 34775 333855 34775
+333856 34775 333856 35075
+e 122 2
+333856 35075 333856 34775
+333856 35075 333855 35075
+e 123 2
+333856 36150 333855 36150
+333856 36150 333856 36374
+e 124 2
+333856 36374 333856 36150
+333856 36374 333855 36374
+e 125 2
+333855 36374 333856 36374
+333855 36374 333855 36710
+e 126 2
+353131 96365 353130 96365
+353131 96365 353131 96665
+e 127 2
+353131 96665 353131 96365
+353131 96665 353130 96665
+e 128 2
+353131 97740 353130 97740
+353131 97740 353131 97964
+e 129 2
+353131 97964 353131 97740
+353131 97964 353130 97964
+e 130 2
+353130 97964 353131 97964
+353130 97964 353130 98300
+e 131 2
+358066 34775 358065 34775
+358066 34775 358066 35075
+e 132 2
+358066 35075 358066 34775
+358066 35075 358065 35075
+e 133 2
+358066 36150 358065 36150
+358066 36150 358066 36374
+e 134 2
+358066 36374 358066 36150
+358066 36374 358065 36374
+e 135 2
+358065 36374 358066 36374
+358065 36374 358065 36710
+Grid.7
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.8
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.9
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.10
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.11
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.12
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.13
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.14
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.15
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.16
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.17
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.18
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.19
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.20
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.21
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.22
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.23
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.24
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.25
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Grid.26
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+All shapes must be on a 2.5 nm grid
+Antenna.poly
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Maximum allowed field poly area to antenna area is 100:1. Connect diode to relax constraint.
+Antenna.metal1
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+Maximum allowed (poly + metal 1) antenna area to gate area is 300:1. Connect diode to relax constraint.
+Antenna.metal2
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+[Area(poly)+Area(Metal 1)]:Area(Gate) should be < 300:1 to prevent plasma induced damage.
+Antenna.metal3
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+[Area(poly)+Area(Metal 1)+Area(Metal 2)]:Area(Gate) should be < 300:1 to prevent plasma induced gate oxide damage.
+Antenna.metal4
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+[Area(poly)+Area(Metal 1)+Area(Metal 2)+Area(Metal 3)]:Area(Gate) should be < 300:1 to prevent plasma induced gate oxide damage
+Antenna.metal5
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+[Area(poly+M1+M2+M3+M4):Area(Gate) should be < 300:1 to prevent plasma induced gate oxide damage
+Antenna.metal6
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+[Area(poly+M1+M2+M3+M4+M5)]:Area(Gate) should be < 300:1 to prevent plasma induced gate oxide damage
+Antenna.metal7
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+[Area(poly+M1+M2+M3+M4+M5+M6)]:Area(Gate) should be < 300:1 to prevent plasma induced gate oxide damage
+Antenna.metal8
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+[Area(poly+M1+M2+M3+M4+M5+M6+M7)]:Area(Gate) should be < 300:1 to prevent plasma induced gate oxide damage
+Antenna.metal9
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+[Area(poly+M1+M2+M3+M4+M5+M6+M7+M8)]:Area(Gate) should be < 300:1 to prevent plasma induced gate oxide damage
+Antenna.metal10
+0 0 2 Dec  8 12:15:28 2017                     
+Rule File Pathname: /home/home5/sdevkule/ese555/_calibreDRC.rul_
+[Area(poly+M1+M2+M3+M4+M5+M6+M7+M8+M9)]:Area(Gate) should be < 300:1 to prevent plasma induced gate oxide damage

@@ -1,0 +1,243 @@
+
+
+
+                  ##################################################
+                  ##                                              ##
+                  ##         C A L I B R E    S Y S T E M         ##
+                  ##                                              ##
+                  ##             L V S   R E P O R T              ##
+                  ##                                              ##
+                  ##################################################
+
+
+
+REPORT FILE NAME:         finalfinal.lvs.report
+LAYOUT NAME:              /home/home5/sdevkule/ese555/svdb/finalfinal.sp ('finalfinal')
+SOURCE NAME:              /home/home5/sdevkule/ese555/finalfinal.src.net ('finalfinal')
+RULE FILE:                /home/home5/sdevkule/ese555/_calibrexRC.rul_
+RULE FILE TITLE:          LVS Rule File for FreePDK45
+CREATION TIME:            Fri Dec  8 10:24:56 2017
+CURRENT DIRECTORY:        /home/home5/sdevkule/ese555
+USER NAME:                sdevkule
+CALIBRE VERSION:          v2014.4_28.20    Thu Dec 4 12:46:29 PST 2014
+
+
+
+                               OVERALL COMPARISON RESULTS
+
+
+
+                         #       ###################       _   _   
+                        #        #                 #       *   *   
+                   #   #         #     CORRECT     #         |     
+                    # #          #                 #       \___/  
+                     #           ###################               
+
+
+
+
+**************************************************************************************************************
+                                      CELL  SUMMARY
+**************************************************************************************************************
+
+  Result         Layout                        Source
+  -----------    -----------                   --------------
+  CORRECT        finalfinal                    finalfinal
+
+
+
+**************************************************************************************************************
+                                      LVS PARAMETERS
+**************************************************************************************************************
+
+
+o LVS Setup:
+
+   LVS COMPONENT TYPE PROPERTY            element
+   LVS COMPONENT SUBTYPE PROPERTY         model
+   // LVS PIN NAME PROPERTY
+   LVS POWER NAME                         "VDD"
+   LVS GROUND NAME                        "VSS" "GROUND"
+   LVS CELL SUPPLY                        NO
+   LVS RECOGNIZE GATES                    ALL
+   LVS IGNORE PORTS                       NO
+   LVS CHECK PORT NAMES                   NO
+   LVS IGNORE TRIVIAL NAMED PORTS         NO
+   LVS BUILTIN DEVICE PIN SWAP            YES
+   LVS ALL CAPACITOR PINS SWAPPABLE       NO
+   LVS DISCARD PINS BY DEVICE             NO
+   LVS SOFT SUBSTRATE PINS                NO
+   LVS INJECT LOGIC                       NO
+   LVS EXPAND UNBALANCED CELLS            YES
+   LVS FLATTEN INSIDE CELL                NO
+   LVS EXPAND SEED PROMOTIONS             NO
+   LVS PRESERVE PARAMETERIZED CELLS       NO
+   LVS GLOBALS ARE PORTS                  YES
+   LVS REVERSE WL                         NO
+   LVS SPICE PREFER PINS                  NO
+   LVS SPICE SLASH IS SPACE               YES
+   LVS SPICE ALLOW FLOATING PINS          YES
+   // LVS SPICE ALLOW INLINE PARAMETERS     
+   LVS SPICE ALLOW UNQUOTED STRINGS       NO
+   LVS SPICE CONDITIONAL LDD              NO
+   LVS SPICE CULL PRIMITIVE SUBCIRCUITS   NO
+   LVS SPICE IMPLIED MOS AREA             NO
+   // LVS SPICE MULTIPLIER NAME
+   LVS SPICE OVERRIDE GLOBALS             NO
+   LVS SPICE REDEFINE PARAM               NO
+   LVS SPICE REPLICATE DEVICES            NO
+   LVS SPICE SCALE X PARAMETERS           NO
+   LVS SPICE STRICT WL                    NO
+   // LVS SPICE OPTION
+   LVS STRICT SUBTYPES                    NO
+   LVS EXACT SUBTYPES                     NO
+   LAYOUT CASE                            NO
+   SOURCE CASE                            NO
+   LVS COMPARE CASE                       NO
+   LVS DOWNCASE DEVICE                    NO
+   LVS REPORT MAXIMUM                     50
+   LVS PROPERTY RESOLUTION MAXIMUM        32
+   // LVS SIGNATURE MAXIMUM
+   // LVS FILTER UNUSED OPTION
+   // LVS REPORT OPTION
+   LVS REPORT UNITS                       YES
+   // LVS NON USER NAME PORT
+   // LVS NON USER NAME NET
+   // LVS NON USER NAME INSTANCE
+   // LVS IGNORE DEVICE PIN
+
+   // Reduction
+
+   LVS REDUCE SERIES MOS                  YES
+   LVS REDUCE PARALLEL MOS                YES
+   LVS REDUCE SEMI SERIES MOS             YES
+   LVS REDUCE SPLIT GATES                 YES
+   LVS REDUCE PARALLEL BIPOLAR            YES
+   LVS REDUCE SERIES CAPACITORS           YES
+   LVS REDUCE PARALLEL CAPACITORS         YES
+   LVS REDUCE SERIES RESISTORS            YES
+   LVS REDUCE PARALLEL RESISTORS          YES
+   LVS REDUCE PARALLEL DIODES             YES
+   LVS REDUCTION PRIORITY                 PARALLEL
+   
+   LVS SHORT EQUIVALENT NODES             NO
+
+   // Trace Property
+
+   TRACE PROPERTY  mn(nmos_vtl)  l l 4e-09 ABSOLUTE
+   TRACE PROPERTY  mn(nmos_vtl)  w w 4e-09 ABSOLUTE
+   TRACE PROPERTY  mp(pmos_vtl)  l l 4e-09 ABSOLUTE
+   TRACE PROPERTY  mp(pmos_vtl)  w w 4e-09 ABSOLUTE
+   TRACE PROPERTY  mn(nmos_vth)  l l 4e-09 ABSOLUTE
+   TRACE PROPERTY  mn(nmos_vth)  w w 4e-09 ABSOLUTE
+   TRACE PROPERTY  mp(pmos_vth)  l l 4e-09 ABSOLUTE
+   TRACE PROPERTY  mp(pmos_vth)  w w 4e-09 ABSOLUTE
+   TRACE PROPERTY  mn(nmos_vtg)  l l 4e-09 ABSOLUTE
+   TRACE PROPERTY  mn(nmos_vtg)  w w 4e-09 ABSOLUTE
+   TRACE PROPERTY  mp(pmos_vtg)  l l 4e-09 ABSOLUTE
+   TRACE PROPERTY  mp(pmos_vtg)  w w 4e-09 ABSOLUTE
+   TRACE PROPERTY  mn(nmos_thkox)  l l 4e-09 ABSOLUTE
+   TRACE PROPERTY  mn(nmos_thkox)  w w 4e-09 ABSOLUTE
+   TRACE PROPERTY  mp(pmos_thkox)  l l 4e-09 ABSOLUTE
+   TRACE PROPERTY  mp(pmos_thkox)  w w 4e-09 ABSOLUTE
+
+
+
+                   CELL COMPARISON RESULTS ( TOP LEVEL )
+
+
+
+                         #       ###################       _   _   
+                        #        #                 #       *   *   
+                   #   #         #     CORRECT     #         |     
+                    # #          #                 #       \___/  
+                     #           ###################               
+
+
+
+LAYOUT CELL NAME:         finalfinal
+SOURCE CELL NAME:         finalfinal
+
+--------------------------------------------------------------------------------------------------------------
+
+INITIAL NUMBERS OF OBJECTS
+--------------------------
+
+                Layout    Source         Component Type
+                ------    ------         --------------
+ Ports:             32        32
+
+ Nets:             669       669
+
+ Instances:        723       723         MN (4 pins)
+                   723       723         MP (4 pins)
+                ------    ------
+ Total Inst:      1446      1446
+
+
+NUMBERS OF OBJECTS AFTER TRANSFORMATION
+---------------------------------------
+
+                Layout    Source         Component Type
+                ------    ------         --------------
+ Ports:             32        32
+
+ Nets:             477       477
+
+ Instances:        154       154         MN (4 pins)
+                   154       154         MP (4 pins)
+                   281       281         INV (2 pins)
+                    72        72         NAND2 (3 pins)
+                    12        12         SDW2 (3 pins)
+                    12        12         SDW3 (4 pins)
+                    12        12         SUP2 (3 pins)
+                    12        12         SUP3 (4 pins)
+                    12        12         SPDW_2_1 (4 pins)
+                    12        12         SPDW_3_1 (5 pins)
+                    12        12         SPUP_2_1 (4 pins)
+                    12        12         SPUP_3_1 (5 pins)
+                ------    ------
+ Total Inst:       757       757
+
+
+
+**************************************************************************************************************
+                               INFORMATION AND WARNINGS
+**************************************************************************************************************
+
+
+                  Matched    Matched    Unmatched    Unmatched    Component
+                   Layout     Source       Layout       Source    Type
+                  -------    -------    ---------    ---------    ---------
+   Ports:              32         32            0            0
+
+   Nets:              477        477            0            0
+
+   Instances:         154        154            0            0    MN(NMOS_VTL)
+                      154        154            0            0    MP(PMOS_VTL)
+                      281        281            0            0    INV
+                       72         72            0            0    NAND2
+                       12         12            0            0    SDW2
+                       12         12            0            0    SDW3
+                       12         12            0            0    SUP2
+                       12         12            0            0    SUP3
+                       12         12            0            0    SPDW_2_1
+                       12         12            0            0    SPDW_3_1
+                       12         12            0            0    SPUP_2_1
+                       12         12            0            0    SPUP_3_1
+                  -------    -------    ---------    ---------
+   Total Inst:        757        757            0            0
+
+
+o Initial Correspondence Points:
+
+   Ports:        VDD VSS B7 B6 A6 B5 CLK B4 RESET A5 A7 A4 CIN1 COUT S7 S6 S5 S4 CIN2 B3 A3 S3
+                 A2 B2 S2 B1 A1 S1 B0 A0 CIN S0
+
+
+**************************************************************************************************************
+                                         SUMMARY
+**************************************************************************************************************
+
+Total CPU Time:      0 sec
+Total Elapsed Time:  0 sec

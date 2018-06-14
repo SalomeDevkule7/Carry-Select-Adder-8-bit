@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      sdevkule
+HostName                       lab01.ece.stonybrook.edu
+ProcessIdentifier              10721
+ProcessCreationTime_UTC        1512738309
+ProcessCreationTime_Readable   Fri Dec  8 08:05:09 2017 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/home5/sdevkule/ese555/ESE537tut1/DFF/layout/layout.oa.cdslck.dirlck
+TimeEditLocked                 Fri Dec  8 08:32:04 2017 EST
